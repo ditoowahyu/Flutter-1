@@ -33,6 +33,7 @@ dependencies:
   url_launcher: ^6.0.10
   font_awesome_flutter: ^10.1.0  # Tambahkan ini
   google_fonts: ^6.0.1
+  math_expressions: ^2.3.0
 
 
 
